@@ -1,0 +1,13 @@
+required libraries:
+pandas
+numpy
+sklearn
+transformers
+import torch
+nltk
+re
+tqdm
+
+python file:
+training.py : trained the model
+hallucination_detection.py : main file
